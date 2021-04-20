@@ -1,0 +1,6 @@
+01:46:02.246 [main] ERROR todolist1.Tasks - Bouton ajouter activé lorsque les champs sont vides
+01:46:02.933 [main] ERROR todolist1.Tasks - Bouton ajouter activé lorsque le champs description est vide
+01:46:03.025 [main] INFO  todolist1.Tasks - Bouton ajouter activé
+01:46:03.071 [main] ERROR todolist1.Tasks - Bouton ajouter activé lorsque le champs créer tache est vide
+01:46:07.567 [main] INFO  todolist1.Tasks - Tache créee avec succès
+01:46:07.600 [main] INFO  todolist1.Tasks - tache à l'état non complète

@@ -1,0 +1,4 @@
+01:46:07.683 [main] INFO  todolist1.Tasks - tache à l'état complète
+01:46:07.741 [main] INFO  todolist1.Tasks - tache supprimé avec succès
+01:46:11.943 [main] ERROR todolist1.Navbar - Bouton déconnexion affiché dans home
+01:46:17.443 [main] ERROR todolist1.Navbar - Bouton tache affiché dans home

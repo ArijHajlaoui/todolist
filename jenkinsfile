@@ -1,0 +1,15 @@
+
+pipeline { 
+    stages {
+        stage('Test'){
+            steps {
+                sh 'mvn --version'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'pwd'
+            }
+        }
+    }
+}
